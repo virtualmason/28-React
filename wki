@@ -1,0 +1,1 @@
+The main parts of React that stat out to me are the setState, props, forms and events. Set state is for making changes to the DOM in a fast light way. Props is a way to pass information form parent to child. As far as events go they aren't that different from plain JavaScrpt events except they are camel cas and the handler is wrapped in brackets.
